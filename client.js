@@ -107,6 +107,7 @@ function addCommas(number) {
     return temp;
 }
 
+// could've just used Math.round() for this but i weas just having fun writing this on my own
 function roundToDollar(number) {
     // if the number has a decimal, find index and slice string accordingly
     let stringNumber = String(number)
