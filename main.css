@@ -1,0 +1,79 @@
+h1 {
+    text-align: center;
+    background-color: #818f84;
+    color: #f7fcf8;
+    padding: 20px;
+}
+
+h3 {
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 70px;
+    padding: 10px;
+    font-style: oblique;
+}
+
+.container {
+    height: 1150px;
+    background-color: #e9f2eb;
+    margin: 10px auto;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+input {
+    max-width: 200px;
+}
+
+.inputs {
+    margin: 0 50px;
+}
+
+.table {
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 1000px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+.footer {
+    height: 46px;
+    background-color: #dee2e6;
+}
+
+#footer {
+    background-color: #dee2e6;
+}
+
+.totalMonthly {
+    float: right;
+    margin-top: 20px;
+    margin-right: 70px;
+}
+
+#note {
+    float: right;
+    margin-right: 25px;
+    margin-top: 7px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.table-bordered {
+    border: 3px solid #dee2e6;
+}
+
+#submitButton { 
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+.inputs {
+    margin-left: 70px;
+}
